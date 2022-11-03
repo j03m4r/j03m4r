@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @j03m4r
-- 👀 I’m interested in brrrrrrrr
+- 👀 I’m interested in Web and Software Development
 - 🌱 I’m currently learning how to make games
-- 💞️ I’m looking to collaborate on GAMES
-- 📫 How to reach me email
+- 💞️ I’m looking to collaborate on games
+- 📫 How to reach me email: joeymarkley@outlook.com
 
 <!---
 j03m4r/j03m4r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
