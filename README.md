@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j03m4r
 - 👀 I’m interested in Web, Game, and Software Development
-- 🌱 I’m currently learning how to make games
-- 💞️ I’m looking to collaborate on games
+- 🌱 I’m currently learning how to deploy through Zappa and AWS
+- 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me email: joeymarkley@outlook.com
 
 <!---
